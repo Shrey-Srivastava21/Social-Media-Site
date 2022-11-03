@@ -8,10 +8,6 @@
 <div align="center">
 
 ![Open-Source](https://img.shields.io/badge/-OPEN--SOURCE-%236fff00?style=for-the-badge&logo=github)
-![GitHub repo size](https://img.shields.io/github/repo-size//Social-Media-Platform?color=green&label=SIZE&logo=github&style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars//Social-Media-Platform?color=%2381f200&logo=github&style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks//Social-Media-Platform?color=%2300c8ff&logo=github&style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues//Social-Media-Platform?color=%23f6ff00&logo=github&style=for-the-badge)
 [![Discord](https://img.shields.io/badge/-Discord-%2300d5ff?style=for-the-badge&logo=Discord&color=39c3ed&url=https://t.me/joinchat/YaYtDpKRN6A2Njg1)](https://discord.gg/gtQSQmyu)
 
 </div>
